@@ -6,6 +6,7 @@
   font-size: 1.2rem;
   font-family: var(--Font-family);
   border-radius: 9999px;
+  transition: all 0.5s ease;
 }
 
 .btn:hover {
