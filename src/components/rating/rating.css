@@ -1,0 +1,15 @@
+.rating {
+  margin: 0;
+  padding: 0.8rem 1rem;
+  flex: 1;
+}
+
+.rating:hover {
+  background-color: var(--Medium-Grey);
+  cursor: pointer;
+}
+
+.activeRating {
+  background-color: var(--Orange);
+  color: var(--White);
+}

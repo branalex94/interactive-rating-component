@@ -1,0 +1,15 @@
+.btn {
+  width: 100%;
+  background-color: var(--Orange);
+  border: none;
+  padding: 1rem 0;
+  font-size: 1.2rem;
+  font-family: var(--Font-family);
+  border-radius: 9999px;
+}
+
+.btn:hover {
+  background-color: var(--White);
+  color: var(--Orange);
+  cursor: pointer;
+}
